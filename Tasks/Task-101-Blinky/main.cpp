@@ -5,8 +5,8 @@ DigitalOut greenLED(LED1);
 
 //These are "commented out" and so are not part of the program. You can uncomment them by removing the // characters
 //Your task is to make a sequence alternating between Green+Red and just Blue 
-//DigitalOut blueLED(LED2);
-//DigitalOut redLED(LED3);
+DigitalOut blueLED(LED2);
+DigitalOut redLED(LED3);
 
 //The main function - all executable C / C++ applications have a main function. This is our entry point in the software
 int main() 
